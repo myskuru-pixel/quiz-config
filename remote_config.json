@@ -2,7 +2,7 @@
 {
   "version": 1,
   "ads": {
-    "enabled": true1,
+    "enabled": false,
     "banner_enabled": true,
     "splash_interstitial_enabled": true,
     "interstitial_every_n_actions": 7
