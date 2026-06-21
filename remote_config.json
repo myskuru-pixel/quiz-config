@@ -1,8 +1,8 @@
-// При редактировании идет задержка до минуты
+// При редактировании идет задержка до минуты true false
 {
   "version": 1,
   "ads": {
-    "enabled": true,
+    "enabled": false,
     "banner_enabled": true,
     "splash_interstitial_enabled": true,
     "interstitial_every_n_actions": 7
