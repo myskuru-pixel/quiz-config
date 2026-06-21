@@ -1,8 +1,8 @@
-// При редактировании обязательно нажимаем кнопку сохранить и RAW
+// При редактировании идет задержка до минуты
 {
   "version": 1,
   "ads": {
-    "enabled": false,
+    "enabled": true,
     "banner_enabled": true,
     "splash_interstitial_enabled": true,
     "interstitial_every_n_actions": 7
